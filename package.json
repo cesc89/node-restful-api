@@ -1,0 +1,25 @@
+{
+  "name": "api-restful",
+  "version": "0.1.0",
+  "description": "Simple NodeJS API Restful",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesc89/node-restful-api.git"
+  },
+  "author": "Carlos Escalona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesc89/node-restful-api/issues"
+  },
+  "homepage": "https://github.com/cesc89/node-restful-api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4",
+    "node-restful": "^0.2.5"
+  }
+}
